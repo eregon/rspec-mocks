@@ -8,6 +8,7 @@ on:
       - 'main'
       - '*-maintenance'
       - '*-dev'
+      - 'test*'
   pull_request:
     branches:
       - '*'
